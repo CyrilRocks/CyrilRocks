@@ -17,7 +17,6 @@
 - 🏢 **Cybersecurity Engineer** at **TCS** — working on the Randstad Netherlands engagement
 - 🛡️ Focused on **Identity & Access Management (IAM)**, **Privileged Access Management (PAM)**, and **Security Automation**
 - 🐍 Build Python-based automation pipelines across **Auth0**, **CyberArk**, **Splunk**, and enterprise security platforms
-- 💰 Eliminated GCP BigQuery dependency from a production pipeline — **saving ~$300–$500/month**
 - 📜 **Microsoft Certified**: Identity and Access Administrator Associate (SC-300)
 - 🎓 **GATE 2025 Qualified** — CS & IT (AIR 7,286 / 170,825)
 
